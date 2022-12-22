@@ -1,0 +1,10 @@
+body {
+  color: #000000;
+  background-color: rgb(4, 252, 219);
+  border: 4px double rgb(175, 23, 23)
+};
+
+.header {
+  width: 70%;
+  
+}
